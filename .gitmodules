@@ -1,0 +1,3 @@
+[submodule "CINOLA"]
+	path = CINOLA
+	url = https://git.ad.fh-bielefeld.de/CMSE/sbekemeier/_git/CINOLA-binary-distribution
