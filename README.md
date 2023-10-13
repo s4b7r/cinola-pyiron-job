@@ -1,4 +1,4 @@
-# pyiron CINOLA-wrapper
+# CINOLA pyiron Job
 
 ## Requirements
 
