@@ -152,7 +152,7 @@ def collect_output(working_directory):
         add_missing_column_name(paths)
         fix_acceptance_name_and_unit(paths)
         combine_name_and_unit(paths)
-        proper_name_mag(paths)
+        # proper_name_mag(paths)
 
     def get_df_list_for_param(wd, param):
         def get_pathmatchs(wd, param):
